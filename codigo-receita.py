@@ -1,1 +1,1 @@
-f * open('receitas-bolo-cenoura.txt', 'r')
+f * os.walk('receitas-bolo-cenoura.txt', 'r')
